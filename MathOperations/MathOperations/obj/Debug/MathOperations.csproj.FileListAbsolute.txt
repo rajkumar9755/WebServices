@@ -1,0 +1,9 @@
+c:\users\rajkumar.s\documents\visual studio 2017\Projects\MathOperations\MathOperations\bin\Debug\MathOperations.exe.config
+c:\users\rajkumar.s\documents\visual studio 2017\Projects\MathOperations\MathOperations\bin\Debug\MathOperations.exe
+c:\users\rajkumar.s\documents\visual studio 2017\Projects\MathOperations\MathOperations\bin\Debug\MathOperations.pdb
+c:\users\rajkumar.s\documents\visual studio 2017\Projects\MathOperations\MathOperations\obj\Debug\MathOperations.csprojResolveAssemblyReference.cache
+c:\users\rajkumar.s\documents\visual studio 2017\Projects\MathOperations\MathOperations\obj\Debug\MathOperations.exe
+c:\users\rajkumar.s\documents\visual studio 2017\Projects\MathOperations\MathOperations\obj\Debug\MathOperations.pdb
+C:\Users\rajkumar.s\Documents\Visual Studio 2017\Projects\MathOperations\MathOperations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rajkumar.s\Documents\Visual Studio 2017\Projects\MathOperations\MathOperations\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\rajkumar.s\Documents\Visual Studio 2017\Projects\MathOperations\MathOperations\bin\Debug\Newtonsoft.Json.xml
